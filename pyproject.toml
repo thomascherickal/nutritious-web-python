@@ -3,8 +3,28 @@ name = "nutritious"
 version = "0.1.1"
 description = "A jsx-preprocessor for Python which enables the coder to write JSX directly in Python 🗿"
 authors = ["Adarsh Gourab Mahalik <gourabmahalikadarsh@gmail.com>"]
-license = "GPL"
 readme = "README.md"
+homepage = "https://github.com/itsmeadarsh2008/nutritious"
+repository = "https://github.com/itsmeadarsh2008/nutritious.git"
+license = "GPL"
+keywords = [
+    "jsx", "nutritious", "preprocessor", "python",
+    "jsx-python", "jsx-py", "jsx-preprocessor",
+    "jsx-transpiler", "jsx-compiler", "jsx-parser",
+    "jsx-renderer", "jsx-generator", "jsx-transformer",
+    "jsx-converter", "jsx-translation", "jsx-translation-tool",
+    "jsx-to-python", "jsx-in-python", "jsx-for-python",
+    "jsx-python-integration", "jsx-python-support",
+    "python-jsx", "py-jsx", "python-jsx-preprocessor",
+    "python-jsx-transpiler", "python-jsx-compiler",
+    "python-jsx-parser", "python-jsx-renderer",
+    "python-jsx-generator", "python-jsx-transformer",
+    "python-jsx-converter", "python-jsx-translation",
+    "python-jsx-translation-tool", "jsx-python-converter"
+]
+
+[tool.poetry.urls]
+"Bug Tracker" = "https://github.com/itsmeadarsh2008/nutritious/issues"
 
 [tool.poetry.dependencies]
 python = "^3.9"
