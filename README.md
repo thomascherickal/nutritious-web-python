@@ -10,14 +10,7 @@
 > Please note that this is project is in experimental stage. It is a fork of [Packed](https://github.com/michaeljones/packed) and has been modified and optimized.
 
 ## Installation
-
-To install the package, clone the repository and use `pip`:
-
-```bash
-git clone https://github.com/yourusername/nutritious-litchi.git
-cd nutritious-litchi
-pip install .
-
+```
 # you can use any python package manager like pip and poetry to install nutritious instead
 pip install nutritious
 ```

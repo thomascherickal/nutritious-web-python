@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nutritious"
-version = "0.1.0"
+version = "0.1.1"
 description = "A jsx-preprocessor for Python which enables the coder to write JSX directly in Python 🗿"
 authors = ["Adarsh Gourab Mahalik <gourabmahalikadarsh@gmail.com>"]
 license = "GPL"
