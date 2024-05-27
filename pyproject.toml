@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "nutritious"
+version = "0.1.0"
+description = "A jsx-preprocessor for Python which enables the coder to write JSX directly in Python 🗿"
+authors = ["Adarsh Gourab Mahalik <gourabmahalikadarsh@gmail.com>"]
+license = "GPL"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pyPEG2 = "^2.15.2"
+
+[tool.poetry.group.dev.dependencies]
+ruff = "^0.4.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
